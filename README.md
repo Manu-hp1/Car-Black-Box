@@ -80,7 +80,6 @@ Example:
 - Embedded C programming  
 - I2C communication (RTC + EEPROM)  
 - UART communication  
-- State machine design  
 - EEPROM data handling  
 - Real-time system design  
 
